@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End projects**
 
-- 💬 Ask me about **Vue.js**
+- 💬 Ask me about **Front-End Web Development**
 
 - 📫 How to reach me **abdelrahmanawad.dev@gmail.com**
 
