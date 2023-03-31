@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/abdelrahman-awad-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdelrahman-awad-in" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdo.awaad.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdo.awaad.50" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abdelrhman._.awad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrhman._.awad/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/3bdo-3wad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/3bdo-3wad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman-awad-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-awad-in" height="30" width="40" /></a>
+<a href="https://fb.com/abdo.awaad.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdo.awaad.50" height="30" width="40" /></a>
+<a href="https://instagram.com/abdelrhman._.awad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrhman._.awad" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/3bdo-3wad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="3bdo-3wad" height="30" width="40" /></a>
 <a href="https://discord.gg/Abdelrahman awad#6578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdelrahman awad#6578" height="30" width="40" /></a>
 </p>
 
