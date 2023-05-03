@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman awad</h1>
 <h3 align="center"> Front-End Developer & GDSC lead</h3>
+<p>A computer science student who creates front-end web development professional pages using languages like HTML, CSS, JavaScript, and Vue.Js. Participating in competitions and hackathons like "ECPC" has shown my problem-solving ability. Strong interpersonal and teamwork abilities and leadership of the Google Developer Student Club at Akhdar El-Yom Academy. Capable of working well in a team.<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-awad-hub&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-awad-hub" /> </p>
 
