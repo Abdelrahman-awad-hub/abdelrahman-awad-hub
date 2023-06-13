@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abdelrahmanawad.dev@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/fiu48](https://drive.google.com/file/d/14GrscVyB_1CDuQ2lhnq0iDgfyU4qTswr/view?usp=sharing)](https://drive.google.com/file/d/14GrscVyB_1CDuQ2lhnq0iDgfyU4qTswr/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/14GrscVyB_1CDuQ2lhnq0iDgfyU4qTswr/view?usp=sharing)](https://drive.google.com/file/d/14GrscVyB_1CDuQ2lhnq0iDgfyU4qTswr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
