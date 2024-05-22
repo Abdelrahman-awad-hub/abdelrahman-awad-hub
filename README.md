@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>🌱 I’m currently learning Exprss.js , back-end , nest.js<br><br>👯 I’m looking to collaborate on Node.js back-end projects<br><br>👨‍💻 All of my projects are available at https://github.com/Abdelrahman-awad-hub<br><br>📝 I regularly write articles on https://www.linkedin.com/in/abdelrahman-awad-in/<br><br>💬 Ask me about Software Development<br><br>📫 How to reach me abdelrahmanawad.dev@gmail.com<br><br>📄 Know about my experiences (https://drive.google.com/file/d/1pObdewKqD3cA1ZAtHIWAWj_xxVFnkf8P/view?usp=sharing)
+🔭 I’m currently working on<br><br>🌱 I’m currently learning Exprss.js , back-end , nest.js<br><br>👯 I’m looking to collaborate on Node.js back-end projects<br><br>👨‍💻 All of my projects are available at https://github.com/Abdelrahman-awad-hub<br><br>📝 I regularly write articles on https://www.linkedin.com/in/abdelrahman-awad-in/<br><br>💬 Ask me about Software Development<br><br>📫 How to reach me abdelrahmanawad.dev@gmail.com<br><br>📄 Know about my experiences (https://drive.google.com/file/d/15isa-1bqGL0NGlGAsHDmPg2pbLbV5KB6/view?usp=sharing)
 
 
 ## 🌐 Socials:
